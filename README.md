@@ -90,7 +90,7 @@ A **Power BI dashboard** is used for advanced data visualization and analysis, a
 
 - ### Dashboard Preview
 
-![Dashboard](dashboard-preview.png)
+![Dashboard](https://github.com/user-attachments/assets/85689f57-60cc-4cfd-8fd6-d44d09f32805)
 
 ## Documentation
 
