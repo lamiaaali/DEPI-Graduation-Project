@@ -3,7 +3,7 @@
 # Skincare Product Sentiment Analysis System 🧴✨
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/nadahamdy217/DEPI-Graduation-Project/tree/main) 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/release/python-3120/)
+[![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/downloads/release/python-3120/)
 
 
 ## Project Overview
