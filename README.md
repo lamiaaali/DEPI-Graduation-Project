@@ -88,16 +88,20 @@ A **Power BI dashboard** is used for advanced data visualization and analysis, a
 - **Top-rated products** based on customer feedback.
 - **Time-based analysis** of reviews.
 
+- ### Dashboard Preview
+
+![Dashboard](dashboard-preview.png)
+
+## Documentation
+
+- All the details are recorded here ![Google Docs](https://docs.google.com/document/d/1le43WPQ_EMTB1sGkLuMi0PLx4spRrAn3YTNdpiX-V2o/edit?usp=sharing)
+
 ## Technologies Used
 
 - *Python*: Backend logic and machine learning model.
 - *Flask*: Web framework for building the backend API.
 - *HTML/CSS/JavaScript*: Frontend interface.
 - *Azure*: Azure Blob Storage and Azure App Service for deployment.
-
-### Dashboard Preview
-
-![Dashboard](dashboard-preview.png)
 
 ## Contributing
 
