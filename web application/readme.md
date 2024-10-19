@@ -50,11 +50,17 @@ This project is a collaborative effort aimed at analyzing customer feedback for 
 The ETL pipeline is designed to handle large volumes of customer feedback data:
 
 - **Azure Data Factory**: Ingests raw review data from various sources.
+
 ![Azure Data Factory](https://github.com/user-attachments/assets/6e6c7f1d-ce0f-4f19-9f39-666fc11f2c92)
+
 - **Azure Databricks**: Processes and cleans the data using predefined transformations.
+
 ![Databricks](https://github.com/user-attachments/assets/270773ab-4691-48cf-a456-a7fdab72cfe1)
+
 - **Azure Synapse Analytics**: Stores processed data for analysis and visualization in **Power BI**.
+
 ![Synapse](https://github.com/user-attachments/assets/7d0568b5-3bc2-4e7a-8b35-597a84e697db)
+
 
 ## Model Details
 
@@ -63,6 +69,9 @@ This project leverages a **pre-trained unsupervised sentiment analysis model** t
 ## Website
 
 The web application allows users to submit product reviews and instantly receive sentiment predictions based on the unsupervised model.
+
+![image](https://github.com/user-attachments/assets/3c64e3d7-794f-44ea-bd72-844f6de2af3d)
+
 
 ### Key Features:
 - Simple and intuitive interface for entering product reviews.
