@@ -94,7 +94,7 @@ A **Power BI dashboard** is used for advanced data visualization and analysis, a
 
 ## Documentation
 
-- All the details are recorded here ![Google Docs](https://docs.google.com/document/d/1le43WPQ_EMTB1sGkLuMi0PLx4spRrAn3YTNdpiX-V2o/edit?usp=sharing)
+- All the details are recorded here [Google Docs](https://docs.google.com/document/d/1le43WPQ_EMTB1sGkLuMi0PLx4spRrAn3YTNdpiX-V2o/edit?usp=sharing)
 
 ## Technologies Used
 
