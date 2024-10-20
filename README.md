@@ -2,6 +2,15 @@
 
 # Skincare Product Sentiment Analysis System 🧴✨
 
+# Data Engineering ALX1_AIS4_S1e
+
+# Team Members:
+- Nada Hamdy Fatehy Abedelsalam
+- Toqa Mohsen
+- Shahd Ammar
+- Omar Salah
+- Yousef Magdy
+
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/nadahamdy217/DEPI-Graduation-Project/tree/main) 
 [![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/downloads/release/python-3120/)
 
